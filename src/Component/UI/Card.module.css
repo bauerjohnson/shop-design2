@@ -1,0 +1,12 @@
+.card {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 10%;
+  padding-bottom: 15%;
+  margin-bottom: 10%;
+ 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  position: static;
+  border-radius: 14px;
+  background-color:#F8F8FF;
+}

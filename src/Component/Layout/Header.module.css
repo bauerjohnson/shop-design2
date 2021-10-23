@@ -1,0 +1,35 @@
+.header {
+   position: relative;
+   top : 0;
+   left: 0;
+   height: 10%;
+   width: 80%;
+   display: flex;
+   justify-content: space-between;
+
+   padding: 15px;
+   margin: 0 8%;
+   
+   border-bottom: 1px solid #696969;
+   
+}
+
+
+.headername {
+    text-align: center;
+    color: #696969;
+    font-weight: 600;
+
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+ul li {
+    display: inline-block;
+    padding: 0 20px;
+    font-weight: bold;
+    color: #696969;
+}
