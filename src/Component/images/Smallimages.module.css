@@ -1,0 +1,24 @@
+
+.imageall {
+  padding: 50px;
+}
+
+.Mainimage {
+  border-radius: 16px;
+  width : 50%;
+
+}
+
+
+.imageprops img {
+ width: 10%;  
+   margin: 1%;   
+   cursor: pointer;
+
+}
+
+
+
+
+
+

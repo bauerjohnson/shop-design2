@@ -1,0 +1,8 @@
+.Mainimage{
+    padding: 50px;
+}
+
+.Mainimage img{
+border-radius: 16px;
+width : 50%;
+}
